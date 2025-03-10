@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 STAR WARS
+=======
+alto
+mcTempFace temporal
+>>>>>>> Stashed changes
